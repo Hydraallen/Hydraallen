@@ -47,6 +47,12 @@
 <!--   grid-snake -->
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
+<!--   skyline 
+<a href="https://skyline.github.com/Hydraallen/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Hyddraallen" width="auto"></img>
 
 
 **📫 How to Reach me:**
@@ -65,12 +71,7 @@
 
 
 
-<!--   skyline 
-<a href="https://skyline.github.com/Hydraallen/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Hyddraallen" width="auto"></img>
 
 
    <!--machine-learning-->
