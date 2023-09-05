@@ -33,18 +33,11 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![Hydraallen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Htdraallen&theme=github-compact)](https://github.com/Hydraallen/github-readme-activity-graph) -->
-![Hydraallen's github activity graph](https://raw.githubusercontent.com/Hydraallen/Hydraallen/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![Hydraallen's github stats](https://github-readme-stats.vercel.app/api?username=Hydraallen&show_icons=true&theme=radical&include_all_commits=true) | ![Hydraallen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydraallen&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
