@@ -69,26 +69,11 @@
 </p>
 
 
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/Hydraallen/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Hyddraallen/Hydraallen&type=Date)](https://star-history.com/#Hydraallen/Hydraallen&Date)
 
-
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@Hydraallen.github.readme)
-</br>
 
 [MIT](LICENSE)
 
