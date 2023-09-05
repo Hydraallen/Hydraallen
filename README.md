@@ -4,7 +4,6 @@
 
 <p align="center">
     <a href="https://github.com/Hydraallen/Hydraallen"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/Hydraallen/Hydraallen/graphs/contributors"><img src="https://img.shields.io/github/contributors/Hydraallen/Hydraallen?color=blue"></a>
     <a href="https://github.com/Hydraallen/Hydraallen/stargazers"><img src="https://img.shields.io/github/stars/Hydraallen/Hydraallen.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/Hydraallen/Hydraallen.svg?color=blue&logo=github"></a>
@@ -33,8 +32,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!-- [![Hydraallen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Htdraallen&theme=github-compact)](https://github.com/Hydraallen/github-readme-activity-graph) -->
+![Hydraallen's github activity graph](https://raw.githubusercontent.com/Hydraallen/Hydraallen/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
