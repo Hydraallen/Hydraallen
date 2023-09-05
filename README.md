@@ -54,7 +54,7 @@
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Hyddraallen" width="auto"></img>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hydraallen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 **📫 How to Reach me:**
