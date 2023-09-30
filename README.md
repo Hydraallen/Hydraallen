@@ -77,7 +77,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Hyddraallen/Hydraallen&type=Date)](https://star-history.com/#Hydraallen/Hydraallen&Date)
 
-
 [MIT](LICENSE)
 
 </p>
