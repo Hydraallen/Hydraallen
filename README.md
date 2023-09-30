@@ -39,7 +39,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Hydraallen's github stats](https://github-readme-stats.vercel.app/api?username=Hydraallen&show_icons=true&theme=radical&include_all_commits=true) | ![Hydraallen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydraallen&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydraallen"></img>
+
 
 <!--   profile-green-animate -->
 
@@ -47,15 +47,6 @@
 
 <!--   grid-snake -->
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/Hydraallen/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Hyddraallen" width="auto"></img>
-
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue)
@@ -141,12 +132,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 </p>
 
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Hyddraallen/Hydraallen&type=Date)](https://star-history.com/#Hydraallen/Hydraallen&Date)
-
-[MIT](LICENSE)
 
 </p>
 
