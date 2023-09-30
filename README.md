@@ -58,6 +58,9 @@
 
 
 <!--START_SECTION:waka-->
+
+
+
 <!--END_SECTION:waka-->
 
 
@@ -66,14 +69,6 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="mailto:allen_wr@126.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hydraallen" alt="Hydraallen" /></a>
 </p>
 
 
@@ -85,9 +80,7 @@
 
 [MIT](LICENSE)
 
-
 </p>
-
 
 
 ![](assets/Bottom_down.svg)
