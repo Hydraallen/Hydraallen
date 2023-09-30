@@ -1,35 +1,19 @@
-name: Metrics
+name: Waka Readme
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: linsyking/metrics@master
+      - uses: anmol098/waka-readme-stats@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, csharp, c#, lex, cmake, shaderlab, hlsl, lua, javascript, typescript
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: no
-          plugin_steam_user: "76561198323740839"
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_achievements_limit: 0
-          plugin_vndb: no
-          plugin_vndb_user: u212839
-          plugin_vndb_sections: player, recently-playing, favourite, recently-finished
-          plugin_vndb_favourite_games: v13, v14018, v1377
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 时间线
+          SHOW_LOC_CHART: False
+
