@@ -42,6 +42,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hydraallen"></img>
 
 <!--   profile-green-animate -->
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake -->
@@ -53,6 +54,11 @@
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Hyddraallen" width="auto"></img>
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
