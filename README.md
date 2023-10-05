@@ -5,8 +5,6 @@
 <p align="center">
     <a href="https://github.com/Hydraallen/Hydraallen"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/Hydraallen/Hydraallen/graphs/contributors"><img src="https://img.shields.io/github/contributors/Hydraallen/Hydraallen?color=blue"></a>
-    <a href="https://github.com/Hydraallen/Hydraallen/stargazers"><img src="https://img.shields.io/github/stars/Hydraallen/Hydraallen.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/Hydraallen/Hydraallen.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Hydraallen.Hydraallen" alt="visitors"/>   
 </p>
 
@@ -49,86 +47,7 @@
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.9 MB Used in GitHub's Storage 
- > 
-> 🏆 236 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                105 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-🌆 Daytime                144 commits         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-🌃 Evening                265 commits         ████████████░░░░░░░░░░░░░   46.74 % 
-🌙 Night                  53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Wednesday                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Thursday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Saturday                 107 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Sunday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TeX                      2 hrs 30 mins       ███████████████████████░░   90.38 % 
-C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Elm                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 46 mins       █████████████████████████   99.99 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🐱‍💻 Projects: 
-Basic_Git_wksp           2 hrs 24 mins       ██████████████████████░░░   86.89 % 
-Ex2                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-test                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-bash-wksp                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-class1                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-
-💻 Operating System: 
-Windows                  2 hrs 30 mins       ███████████████████████░░   90.43 % 
-Mac                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-```
-
-**I Mostly Code in TeX** 
-
-```text
-Elm                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-
- Last Updated on 05/10/2023 15:32:26 UTC
 <!--END_SECTION:waka-->
 
 
