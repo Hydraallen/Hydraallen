@@ -27,6 +27,15 @@
 | **OS**                                          | ![MacOS](https://img.shields.io/badge/MacOS-white?style=flat-square%26amp&logo=macos&logoColor=%23000000) ![arch](https://img.shields.io/badge/Arch-black?style=flat-square%26amp&logo=archlinux&logoColor=%231793D1) ![Manjaro](https://img.shields.io/badge/Manjaro-black?style=flat-square%26amp&logo=manjaro&logoColor=%2335BF5C) ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=flat-square%26amp&logo=ubuntu&logoColor=%23E95420) ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square%26amp&logo=windows&logoColor=%230078D4)|
 | **Terminal**                                          | ![Kitty](https://img.shields.io/badge/Kitty-white?style=flat-square%26amp&link=https%3A%2F%2Fgithub.com%2Fkovidgoyal%2Fkitty) ![Static Badge](https://img.shields.io/badge/iterm2-white?style=flat-square%26amp&logo=iterm2&logoColor=%23000000&link=https%3A%2F%2Fgithub.com%2Fkovidgoyal%2Fkitty)|
 
+My repositories:
+
+- [Use Latex with VSCode](https://github.com/Hydraallen/Latex-vscode)
+- [Vim Workshop](https://github.com/Hydraallen/Vim-Workshop)
+- [My lunarvim config](https://github.com/Hydraallen/lvim)
+- [Git Workshop](https://github.com/Hydraallen/Basic_Git_wksp)
+- [VSCode Workshop](https://github.com/Hydraallen/VSCode_wksp)
+- [yabai](https://github.com/Hydraallen/yabai_Usage)
+- [A simple face recognition test](https://github.com/Hydraallen/Face-recognition)
 
 
 <!--   GitHub stats graph -->
