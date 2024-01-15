@@ -36,8 +36,11 @@ My repositories:
 - [My lunarvim config](https://github.com/Hydraallen/lvim)
 - [Git Workshop](https://github.com/Hydraallen/Basic_Git_wksp)
 - [VSCode Workshop](https://github.com/Hydraallen/VSCode_wksp)
-- [yabai](https://github.com/Hydraallen/yabai_Usage)
+- [hammerspoon](https://github.com/Hydraallen/hammerspoon)
 - [A simple face recognition test](https://github.com/Hydraallen/Face-recognition)
+- [Manjaro](https://github.com/Hydraallen/Manjaro)
+- [yabai(no updating)](https://github.com/Hydraallen/yabai_Usage)
+
 
 
 <!--   GitHub stats graph -->
