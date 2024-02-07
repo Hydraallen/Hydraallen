@@ -31,14 +31,17 @@
 
 My repositories:
 
-- [Use Latex with VSCode](https://github.com/Hydraallen/Latex-vscode)
-- [Vim Workshop](https://github.com/Hydraallen/Vim-Workshop)
 - [My lunarvim config](https://github.com/Hydraallen/lvim)
+- [Vim Workshop](https://github.com/Hydraallen/Vim-Workshop)
 - [Git Workshop](https://github.com/Hydraallen/Basic_Git_wksp)
 - [VSCode Workshop](https://github.com/Hydraallen/VSCode_wksp)
+- [Use Latex with VSCode](https://github.com/Hydraallen/Latex-vscode)
 - [hammerspoon](https://github.com/Hydraallen/hammerspoon)
+- [kitty tutorial](https://github.com/Hydraallen/kitty)
+- [bat tutorial](https://github.com/Hydraallen/bat)
+- [Manjaro guidence](https://github.com/Hydraallen/Manjaro)
 - [A simple face recognition test](https://github.com/Hydraallen/Face-recognition)
-- [Manjaro](https://github.com/Hydraallen/Manjaro)
+- [yolov5 model training](https://github.com/Hydraallen/yolov5)
 - [yabai(no updating)](https://github.com/Hydraallen/yabai_Usage)
 
 
