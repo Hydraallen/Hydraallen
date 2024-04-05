@@ -43,6 +43,7 @@ My repositories:
 - [A simple face recognition test](https://github.com/Hydraallen/Face-recognition)
 - [yolov5 model training](https://github.com/Hydraallen/yolov5)
 - [yabai(no updating)](https://github.com/Hydraallen/yabai_Usage)
+- [Small cooking game chinese version](https://github.com/Hydraallen/CookingGame)
 
 
 
