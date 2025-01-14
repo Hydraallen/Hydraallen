@@ -106,16 +106,16 @@ Sunday                   142 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +131,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 18:46:05 UTC
+ Last Updated on 14/01/2025 18:43:10 UTC
 <!--END_SECTION:waka-->
 
 
