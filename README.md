@@ -65,13 +65,15 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,16 +108,17 @@ Sunday                   143 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              ████████████████████░░░░░   78.40 % 
+INI                      1 min               █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+GalaxyEmpire             9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +134,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2025 18:45:17 UTC
+ Last Updated on 23/01/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 
