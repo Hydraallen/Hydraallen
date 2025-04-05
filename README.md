@@ -106,18 +106,16 @@ Sunday                   159 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 mins             █████████████████░░░░░░░░   67.99 % 
-JSON                     11 mins             ████████░░░░░░░░░░░░░░░░░   32.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OS_Validator             36 mins             █████████████████████████   99.65 % 
-Vid2Frames               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +131,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2025 18:46:09 UTC
+ Last Updated on 05/04/2025 18:43:04 UTC
 <!--END_SECTION:waka-->
 
 
