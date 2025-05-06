@@ -148,7 +148,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="mailto:allen_wr@126.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:wangruiallen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 
