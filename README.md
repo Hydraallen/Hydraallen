@@ -32,16 +32,17 @@
 My repositories:
 
 - [My lunarvim config](https://github.com/Hydraallen/lvim)
-- [Vim Workshop](https://github.com/Hydraallen/Vim-Workshop)
+- [My Rime config](https://github.com/Hydraallen/Rime)
+- [Vim Workshop](https://github.com/Hydraallen/Vim_wksp_2023)
 - [Git Workshop](https://github.com/Hydraallen/Basic_Git_wksp)
 - [VSCode Workshop](https://github.com/Hydraallen/VSCode_wksp)
-- [Use Latex with VSCode](https://github.com/Hydraallen/Latex-vscode)
-- [hammerspoon](https://github.com/Hydraallen/hammerspoon)
 - [kitty tutorial](https://github.com/Hydraallen/kitty)
+- [Use Latex with VSCode](https://github.com/Hydraallen/Latex-vscode)
+- [Joint-online-judge(JOJ3)](https://github.com/Hydraallen/JOJ3)
+- [hammerspoon](https://github.com/Hydraallen/hammerspoon)
 - [bat tutorial](https://github.com/Hydraallen/bat)
 - [Manjaro guidence](https://github.com/Hydraallen/Manjaro)
 - [A simple face recognition test](https://github.com/Hydraallen/Face-recognition)
-- [yolov5 model training](https://github.com/Hydraallen/yolov5)
 - [yabai(no updating)](https://github.com/Hydraallen/yabai_Usage)
 - [Small cooking game chinese version](https://github.com/Hydraallen/CookingGame)
 
