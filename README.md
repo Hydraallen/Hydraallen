@@ -74,8 +74,6 @@ My repositories:
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
-> 🏆 343 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -109,16 +107,16 @@ Sunday                   241 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cv                       2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -134,7 +132,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025 18:50:13 UTC
+ Last Updated on 26/08/2025 18:48:24 UTC
 <!--END_SECTION:waka-->
 
 
