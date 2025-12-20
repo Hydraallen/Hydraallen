@@ -109,17 +109,16 @@ Sunday                   277 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      4 mins              ████████████████████████░   97.11 % 
-BibTeX                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Report-UM-Template       4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -135,7 +134,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2025 18:53:18 UTC
+ Last Updated on 20/12/2025 18:47:31 UTC
 <!--END_SECTION:waka-->
 
 
