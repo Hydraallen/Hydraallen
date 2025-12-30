@@ -1,0 +1,36 @@
+name: Update Stats Images
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 每天北京时间早6点更新
+  workflow_dispatch:      # 允许手动运行
+
+jobs:
+  download-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download Images from YOUR Vercel
+        run: |
+          mkdir -p assets
+          
+          # 🚨 注意：将下面的域名换成你第一步在 Vercel 获得的那个新域名！
+          
+          # 1. 下载主统计图
+          curl "https://github-readme-stats-dx84spdn2-hydraallens-projects.vercel.app/api?username=Hydraallen&show_icons=true&theme=radical&include_all_commits=true" -o assets/github-stats.svg
+          
+          # 2. 下载语言统计图
+          curl "https://github-readme-stats-dx84spdn2-hydraallens-projects.vercel.app/api/top-langs/?username=Hydraallen&theme=radical&layout=compact" -o assets/top-langs.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n $(git status -s) ]]; then
+            git add assets/*.svg
+            git commit -m "Update stats from self-hosted vercel"
+            git push
+          fi
+
