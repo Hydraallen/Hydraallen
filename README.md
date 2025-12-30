@@ -52,8 +52,8 @@ My repositories:
 ### 📈 GitHub Activity Graph:
 
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| .                                                            | .                                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Hydraallen's github stats](https://github-readme-stats.vercel.app/api?username=Hydraallen&show_icons=true&theme=radical&include_all_commits=true) | ![Hydraallen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydraallen&theme=radical&layout=compact) |
 
 
