@@ -50,11 +50,16 @@ My repositories:
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-
-| .                                                            | .                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Hydraallen's github stats](https://raw.githubusercontent.com/Hydraallen/Hydraallen/refs/heads/main/assets/github-stats.svg) | ![Hydraallen's github stats](https://raw.githubusercontent.com/Hydraallen/Hydraallen/refs/heads/main/assets/top-langs.svg) |
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Hydraallen/Hydraallen/refs/heads/main/assets/github-stats.svg" height="180px" alt="Hydraallen's github stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Hydraallen/Hydraallen/refs/heads/main/assets/top-langs.svg" height="180px" alt="Hydraallen's top langs" />
+    </td>
+  </tr>
+</table>
 
 
 <!--   profile-green-animate -->
