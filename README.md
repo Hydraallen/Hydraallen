@@ -5,7 +5,6 @@
 <p align="center">
     <a href="https://github.com/Hydraallen/Hydraallen"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/Hydraallen/Hydraallen/graphs/contributors"><img src="https://img.shields.io/github/contributors/Hydraallen/Hydraallen?color=blue"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Hydraallen.Hydraallen" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -52,9 +51,9 @@ My repositories:
 ### 📈 GitHub Activity Graph:
 
 
-| .                                                       | .                                                    |
-| ------------------------------------------------------- | ---------------------------------------------------- |
-| ![Hydraallen's github stats](./assets/github-stats.svg) | ![Hydraallen's github stats](./assets/top-langs.svg) |
+| .                                                            | .                                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Hydraallen's github stats](https://raw.githubusercontent.com/Hydraallen/Hydraallen/refs/heads/main/assets/github-stats.svg) | ![Hydraallen's github stats](https://raw.githubusercontent.com/Hydraallen/Hydraallen/refs/heads/main/assets/top-langs.svg) |
 
 
 
@@ -148,11 +147,13 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
-
 **📫 How to Reach me:**
+
 <p align="left">
-<a href="mailto:wangruiallen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:wangruiallen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hydraallen/Hydraallen/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rui-wang-546099392/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hydraallen/Hydraallen/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
+
 
 
 
