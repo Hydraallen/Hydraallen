@@ -19,10 +19,10 @@ jobs:
           # 🚨 注意：将下面的域名换成你第一步在 Vercel 获得的那个新域名！
           
           # 1. 下载主统计图
-          curl "https://github-readme-stats-dx84spdn2-hydraallens-projects.vercel.app/api?username=Hydraallen&show_icons=true&theme=radical&include_all_commits=true" -o assets/github-stats.svg
+          curl "https://github-readme-stats-mauve-beta-12.vercel.app/api?username=Hydraallen&show_icons=true&theme=radical&include_all_commits=true" -o assets/github-stats.svg
           
           # 2. 下载语言统计图
-          curl "https://github-readme-stats-dx84spdn2-hydraallens-projects.vercel.app/api/top-langs/?username=Hydraallen&theme=radical&layout=compact" -o assets/top-langs.svg
+          curl "https://github-readme-stats-mauve-beta-12.vercel.app/api/top-langs/?username=Hydraallen&theme=radical&layout=compact" -o assets/top-langs.svg
 
       - name: Commit and Push
         run: |
