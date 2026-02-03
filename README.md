@@ -70,6 +70,8 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C423%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -87,17 +89,17 @@ My repositories:
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Jupyter Notebook         9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 01/02/2026 19:43:29 UTC
+ Last Updated on 03/02/2026 20:12:09 UTC
 <!--END_SECTION:waka-->
 
 
