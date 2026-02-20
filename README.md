@@ -35,7 +35,6 @@ My repositories:
 - [Vim Workshop](https://github.com/Hydraallen/Vim_wksp_2023)
 - [Git Workshop](https://github.com/Hydraallen/Basic_Git_wksp)
 - [VSCode Workshop](https://github.com/Hydraallen/VSCode_wksp)
-- [kitty tutorial](https://github.com/Hydraallen/kitty)
 - [Use Latex with VSCode](https://github.com/Hydraallen/Latex-vscode)
 - [Joint-online-judge(JOJ3)](https://github.com/Hydraallen/JOJ3)
 - [hammerspoon](https://github.com/Hydraallen/hammerspoon)
