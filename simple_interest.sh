@@ -2,6 +2,10 @@
 
 #shell script to calculate simple interest
 
+is_number() {
+	echo "$1" | grep -Eq '^[0-9]+([.][0-9]+)?$'
+}
+
 echo "Enter the Principal amount: "
 read principal
 
@@ -11,8 +15,13 @@ read roi
 echo "Enter the time: "
 read time
 
-simple_interest=$(expr $principal \* $roi \* $time / 100 )
-echo "Simple Interest is: " $simple_interest
+if ! is_number "$principal" || ! is_number "$roi" || ! is_number "$time"; then
+	echo "Error: Principal, Rate of interest, and time must be numbers."
+	exit 1
+fi
 
-amount=$(expr $simple_interest + $principal)
-echo "Amount is: "$amount
+simple_interest=$(expr "$principal" \* "$roi" \* "$time" / 100 )
+echo "Simple Interest is: " "$simple_interest"
+
+amount=$(expr "$simple_interest" + "$principal")
+echo "Amount is: ""$amount"
