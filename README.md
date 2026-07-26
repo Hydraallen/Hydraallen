@@ -69,7 +69,7 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C122%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C140%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,7 +77,7 @@ My repositories:
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 267 Contributions in the Year 2026
+> 🏆 278 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,56 +85,6 @@ My repositories:
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                151116 commits      ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌆 Daytime                2751 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-🌃 Evening                1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-🌙 Night                  326489 commits      █████████████████░░░░░░░░   67.82 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   470680 commits      ████████████████████████░   97.77 % 
-Tuesday                  1093 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Wednesday                1031 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Thursday                 4172 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Friday                   911 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Saturday                 1030 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Sunday                   2497 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.44 % 
-TeX                      4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-
-🔥 Editors: 
-Claude Code              8 hrs 45 mins       ██████████████████░░░░░░░   70.76 % 
-VS Code                  3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Neovim                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-🐱‍💻 Projects: 
-B127_Play_Galaxy         4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   37.58 % 
-LaTeX英文模板（原创声明更新版）       3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-User-Simulator           1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-observer-sessions        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Report                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-
-💻 Operating System: 
-Mac                      7 hrs 43 mins       ████████████████░░░░░░░░░   62.42 % 
-Linux                    4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   37.58 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -148,7 +98,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 20:38:01 UTC
+ Last Updated on 26/07/2026 20:35:17 UTC
 <!--END_SECTION:waka-->
 
 
