@@ -69,7 +69,9 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C140%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C076%20hrs%2039%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-535%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,6 +87,81 @@ My repositories:
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                153416 commits      ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌆 Daytime                3847 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+🌃 Evening                1698 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+🌙 Night                  370162 commits      █████████████████░░░░░░░░   69.96 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   514146 commits      ████████████████████████░   97.17 % 
+Tuesday                  1942 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Wednesday                1331 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Thursday                 6429 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Friday                   1115 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Saturday                 1348 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Sunday                   2812 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+YAML                     21 hrs 23 mins      █████████████░░░░░░░░░░░░   51.28 % 
+Python                   7 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Markdown                 7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TeX                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+
+🔥 Editors: 
+VS Code                  25 hrs 28 mins      ███████████████░░░░░░░░░░   61.05 % 
+Claude Code              16 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   38.94 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🐱‍💻 Projects: 
+Hydraallen               21 hrs 17 mins      █████████████░░░░░░░░░░░░   51.03 % 
+TripPlanner              4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+User-Simulator           4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+temp                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+奖学金申请                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+
+💻 Operating System: 
+Mac                      41 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 41 hrs 41 mins (99.93%)
+
+✍️ 30,109 lines written by AI, 2 lines written by hand (99.99% AI-written)
+
+🔤 531,907,607 Input Tokens, 3,239,231 Output Tokens
+
+💵 $2663.52 Estimated AI Cost This Week
+
+🧠 305 AI Sessions, 1822 AI Prompts
+
+Opus                     28,476 lines        ███████████████████████░░   93.56 % 
+Glm                      1,146 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Sonnet                   792 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Fable                    21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 10,173 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -98,7 +175,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 20:35:17 UTC
+ Last Updated on 27/07/2026 21:10:46 UTC
 <!--END_SECTION:waka-->
 
 
