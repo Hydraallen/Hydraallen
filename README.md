@@ -69,9 +69,9 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C092%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-551%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-564%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,12 +93,12 @@ My repositories:
 🌞 Morning                151113 commits      ████████░░░░░░░░░░░░░░░░░   31.39 % 
 🌆 Daytime                2755 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 🌃 Evening                1060 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-🌙 Night                  326491 commits      █████████████████░░░░░░░░   67.82 % 
+🌙 Night                  326492 commits      █████████████████░░░░░░░░   67.82 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   470678 commits      ████████████████████████░   97.77 % 
+Monday                   470679 commits      ████████████████████████░   97.77 % 
 Tuesday                  1090 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Wednesday                1029 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Thursday                 4172 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
@@ -114,52 +114,53 @@ Sunday                   2505 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 24 mins      █████████████░░░░░░░░░░░░   53.68 % 
-Python                   3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Bash                     3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Text                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 16 hrs 26 mins      ██████████████░░░░░░░░░░░   55.98 % 
+Bash                     6 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+PowerShell               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 9 mins       ██████████████████████░░░   86.30 % 
-VS Code                  3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Claude Code              28 hrs 58 mins      █████████████████████████   98.69 % 
+Neovim                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-MyServers                11 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.81 % 
-claude-code-config       3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-TripPlanner              3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-奖学金申请                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-observer-sessions        1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+claude-code-config       13 hrs 24 mins      ███████████░░░░░░░░░░░░░░   45.69 % 
+MyServers                11 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   39.59 % 
+Design Review 4          2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+cv                       58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 44 mins (99.6%)
+⏱ AI Coding Time: 29 hrs 15 mins (99.69%)
 
-✍️ 31,019 lines written by AI, 5 lines written by hand (99.98% AI-written)
+✍️ 23,869 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 514,949,475 Input Tokens, 3,469,874 Output Tokens
+🔤 579,253,887 Input Tokens, 3,310,479 Output Tokens
 
-💵 $2593.88 Estimated AI Cost This Week
+💵 $1990.14 Estimated AI Cost This Week
 
-🧠 137 AI Sessions, 1321 AI Prompts
+🧠 126 AI Sessions, 794 AI Prompts
 
-Opus                     30,387 lines        ████████████████████████░   97.46 % 
-Sonnet                   792 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     14,388 lines        █████████████████████░░░░   84.61 % 
+GPT                      2,617 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 11,456 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 9,365 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -175,7 +176,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 20:25:03 UTC
+ Last Updated on 02/08/2026 20:32:28 UTC
 <!--END_SECTION:waka-->
 
 
