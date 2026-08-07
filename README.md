@@ -114,54 +114,52 @@ Sunday                   2505 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 19 hrs 48 mins      ████████████░░░░░░░░░░░░░   48.68 % 
-Bash                     11 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-JavaScript               2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Other                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Markdown                 16 hrs 45 mins      ████████████░░░░░░░░░░░░░   47.54 % 
+Bash                     9 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+JavaScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Claude Code              40 hrs 9 mins       █████████████████████████   98.69 % 
-Neovim                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Exec Wakatime            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              34 hrs 55 mins      █████████████████████████   99.11 % 
+Neovim                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Exec Wakatime            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-MyServers                15 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   38.66 % 
-claude-code-config       14 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   36.72 % 
-interview slide          3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Design Review 4          3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-cv                       1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+claude-code-config       12 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   36.50 % 
+MyServers                12 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.59 % 
+interview slide          3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Design Review 4          3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+cv                       1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Mac                      40 hrs 1 min        █████████████████████████   98.34 % 
-Linux                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Mac                      34 hrs 33 mins      █████████████████████████   98.08 % 
+Linux                    40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 35 mins (99.74%)
+⏱ AI Coding Time: 35 hrs 8 mins (99.73%)
 
-✍️ 33,427 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 26,798 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 773,588,734 Input Tokens, 4,459,149 Output Tokens
+🔤 640,721,023 Input Tokens, 3,536,042 Output Tokens
 
-💵 $2654.04 Estimated AI Cost This Week
+💵 $1982.04 Estimated AI Cost This Week
 
-🧠 182 AI Sessions, 639 AI Prompts
+🧠 165 AI Sessions, 473 AI Prompts
 
-Opus                     16,270 lines        ████████████████████░░░░░   80.93 % 
-GPT                      3,334 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Sonnet                   501 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     9,688 lines         ██████████████████░░░░░░░   71.64 % 
+GPT                      3,334 lines         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Sonnet                   501 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 9,882 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+📚 Verbose Prompter — average 7,830 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +175,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 01:18:34 UTC
+ Last Updated on 07/08/2026 20:15:07 UTC
 <!--END_SECTION:waka-->
 
 
