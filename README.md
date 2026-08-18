@@ -90,7 +90,7 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151220 commits      ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌞 Morning                151221 commits      ████████░░░░░░░░░░░░░░░░░   31.42 % 
 🌆 Daytime                2845 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 🌃 Evening                1094 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 🌙 Night                  326139 commits      █████████████████░░░░░░░░   67.76 % 
@@ -99,7 +99,7 @@ My repositories:
 
 ```text
 Monday                   470182 commits      ████████████████████████░   97.69 % 
-Tuesday                  1118 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Tuesday                  1119 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Wednesday                1085 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Thursday                 4338 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 Friday                   945 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
@@ -114,52 +114,52 @@ Sunday                   2575 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 35 hrs 26 mins      ██████████████░░░░░░░░░░░   54.81 % 
-Python                   13 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Bash                     6 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-TeX                      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Other                    2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown                 30 hrs 12 mins      ███████████████░░░░░░░░░░   59.41 % 
+Python                   11 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Bash                     3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TeX                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 49 mins      █████████████░░░░░░░░░░░░   52.29 % 
-Claude Code              21 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Codex Vscode             9 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  30 hrs 53 mins      ███████████████░░░░░░░░░░   60.76 % 
+Claude Code              10 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Codex Vscode             9 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-TripPlanner              29 hrs 48 mins      ████████████░░░░░░░░░░░░░   46.09 % 
-MyServers                12 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-代码复现                     8 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-claude-code-config       5 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-cv                       3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+TripPlanner              28 hrs 15 mins      ██████████████░░░░░░░░░░░   55.57 % 
+代码复现                     8 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+claude-code-config       4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+MyServers                3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+cv                       3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 💻 Operating System: 
-Mac                      64 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 63 hrs 57 mins (98.89%)
+⏱ AI Coding Time: 50 hrs 46 mins (99.88%)
 
-✍️ 48,487 lines written by AI, 43 lines written by hand (99.91% AI-written)
+✍️ 37,936 lines written by AI, 33 lines written by hand (99.91% AI-written)
 
-🔤 67,390,717 Input Tokens, 6,376,494 Output Tokens
+🔤 49,084,585 Input Tokens, 4,982,111 Output Tokens
 
-💵 $1882.64 Estimated AI Cost This Week
+💵 $1625.34 Estimated AI Cost This Week
 
-🧠 132 AI Sessions, 747 AI Prompts
+🧠 90 AI Sessions, 587 AI Prompts
 
-GPT                      25,433 lines        █████████████░░░░░░░░░░░░   52.00 % 
-Opus                     18,895 lines        ██████████░░░░░░░░░░░░░░░   38.63 % 
-Glm                      4,533 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Sonnet                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+GPT                      21,403 lines        ██████████████░░░░░░░░░░░   55.74 % 
+Opus                     12,413 lines        ████████░░░░░░░░░░░░░░░░░   32.33 % 
+Glm                      4,533 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Sonnet                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 2,088 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 1,955 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
@@ -176,7 +176,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 20:03:10 UTC
+ Last Updated on 18/08/2026 20:36:37 UTC
 <!--END_SECTION:waka-->
 
 
