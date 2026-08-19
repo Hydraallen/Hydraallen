@@ -90,17 +90,17 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151221 commits      ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌆 Daytime                2845 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+🌞 Morning                151221 commits      ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌆 Daytime                2846 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 🌃 Evening                1094 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-🌙 Night                  326139 commits      █████████████████░░░░░░░░   67.76 % 
+🌙 Night                  326039 commits      █████████████████░░░░░░░░   67.76 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   470182 commits      ████████████████████████░   97.69 % 
+Monday                   470082 commits      ████████████████████████░   97.69 % 
 Tuesday                  1119 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Wednesday                1085 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Wednesday                1086 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Thursday                 4338 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 Friday                   945 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Saturday                 1055 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
@@ -114,53 +114,53 @@ Sunday                   2575 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 30 hrs 12 mins      ███████████████░░░░░░░░░░   59.41 % 
-Python                   11 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Bash                     3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-TeX                      1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Markdown                 26 hrs 48 mins      ████████████████░░░░░░░░░   65.80 % 
+Python                   7 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Bash                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TeX                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 53 mins      ███████████████░░░░░░░░░░   60.76 % 
-Claude Code              10 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Codex Vscode             9 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  24 hrs 24 mins      ███████████████░░░░░░░░░░   59.89 % 
+Claude Code              8 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Codex Vscode             7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-TripPlanner              28 hrs 15 mins      ██████████████░░░░░░░░░░░   55.57 % 
-代码复现                     8 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-claude-code-config       4 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-MyServers                3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-cv                       3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TripPlanner              20 hrs 41 mins      █████████████░░░░░░░░░░░░   50.76 % 
+代码复现                     8 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+claude-code-config       4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+MyServers                3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+cv                       1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Mac                      50 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 hrs 46 mins (99.88%)
+⏱ AI Coding Time: 40 hrs 41 mins (99.85%)
 
-✍️ 37,936 lines written by AI, 33 lines written by hand (99.91% AI-written)
+✍️ 25,826 lines written by AI, 32 lines written by hand (99.88% AI-written)
 
-🔤 49,084,585 Input Tokens, 4,982,111 Output Tokens
+🔤 37,542,005 Input Tokens, 4,021,686 Output Tokens
 
-💵 $1625.34 Estimated AI Cost This Week
+💵 $1400.68 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 587 AI Prompts
+🧠 70 AI Sessions, 542 AI Prompts
 
-GPT                      21,403 lines        ██████████████░░░░░░░░░░░   55.74 % 
-Opus                     12,413 lines        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Glm                      4,533 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Sonnet                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GPT                      12,319 lines        ████████████░░░░░░░░░░░░░   46.76 % 
+Opus                     9,447 lines         █████████░░░░░░░░░░░░░░░░   35.86 % 
+Glm                      4,533 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Sonnet                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 1,955 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 2,063 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -176,7 +176,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 20:36:37 UTC
+ Last Updated on 19/08/2026 20:55:20 UTC
 <!--END_SECTION:waka-->
 
 
