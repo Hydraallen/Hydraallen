@@ -79,7 +79,7 @@ My repositories:
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 266 Contributions in the Year 2026
+> 🏆 269 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,20 +90,20 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151223 commits      ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌆 Daytime                2847 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-🌃 Evening                1098 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-🌙 Night                  326141 commits      █████████████████░░░░░░░░   67.76 % 
+🌞 Morning                151225 commits      ████████░░░░░░░░░░░░░░░░░   31.41 % 
+🌆 Daytime                2848 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+🌃 Evening                1099 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+🌙 Night                  326341 commits      █████████████████░░░░░░░░   67.77 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   470182 commits      ████████████████████████░   97.69 % 
+Monday                   470382 commits      ████████████████████████░   97.69 % 
 Tuesday                  1119 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Wednesday                1086 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Thursday                 4342 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 Friday                   949 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Saturday                 1056 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Saturday                 1060 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 Sunday                   2575 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
@@ -114,52 +114,51 @@ Sunday                   2575 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 26 hrs 29 mins      █████████████████░░░░░░░░   66.97 % 
-Python                   7 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Bash                     3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-TeX                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown                 10 hrs 7 mins       ████████████████░░░░░░░░░   62.83 % 
+Bash                     2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Python                   1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+TeX                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+PowerShell               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 50 mins      ███████████████░░░░░░░░░░   60.25 % 
-Claude Code              8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Codex Vscode             7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+VS Code                  11 hrs 19 mins      ██████████████████░░░░░░░   70.33 % 
+Claude Code              4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
 
 🐱‍💻 Projects: 
-TripPlanner              20 hrs 7 mins       █████████████░░░░░░░░░░░░   50.85 % 
-代码复现                     8 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-claude-code-config       4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-MyServers                3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-cv                       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+代码复现                     8 hrs 52 mins       ██████████████░░░░░░░░░░░   55.05 % 
+claude-code-config       4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+cv                       50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+TripPlanner              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Prompt                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-Mac                      39 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 30 mins (99.88%)
+⏱ AI Coding Time: 16 hrs 5 mins (99.84%)
 
-✍️ 24,733 lines written by AI, 32 lines written by hand (99.87% AI-written)
+✍️ 10,200 lines written by AI, 32 lines written by hand (99.69% AI-written)
 
-🔤 36,456,245 Input Tokens, 4,048,942 Output Tokens
+🔤 12,488,332 Input Tokens, 1,765,086 Output Tokens
 
-💵 $1341.32 Estimated AI Cost This Week
+💵 $585.91 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 525 AI Prompts
+🧠 43 AI Sessions, 433 AI Prompts
 
-GPT                      10,573 lines        ███████████░░░░░░░░░░░░░░   42.65 % 
-Opus                     9,638 lines         ██████████░░░░░░░░░░░░░░░   38.88 % 
-Glm                      4,533 lines         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Sonnet                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Opus                     5,669 lines         ██████████████░░░░░░░░░░░   55.31 % 
+Glm                      4,533 lines         ███████████░░░░░░░░░░░░░░   44.23 % 
+Sonnet                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 2,099 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.69% of written lines came from AI
+📚 Verbose Prompter — average 2,043 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -175,7 +174,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 19:56:57 UTC
+ Last Updated on 22/08/2026 19:55:48 UTC
 <!--END_SECTION:waka-->
 
 
