@@ -69,11 +69,11 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C198%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-661%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-665%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -91,8 +91,8 @@ My repositories:
 
 ```text
 🌞 Morning                151230 commits      ████████░░░░░░░░░░░░░░░░░   31.41 % 
-🌆 Daytime                2813 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-🌃 Evening                1062 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+🌆 Daytime                2821 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+🌃 Evening                1063 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 🌙 Night                  326352 commits      █████████████████░░░░░░░░   67.78 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -102,9 +102,9 @@ Monday                   470384 commits      ███████████�
 Tuesday                  1124 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Wednesday                1099 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Thursday                 4343 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Friday                   949 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Friday                   951 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Saturday                 1050 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Sunday                   2508 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Sunday                   2515 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
@@ -114,22 +114,51 @@ Sunday                   2508 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 hrs 9 mins       ███████████████████░░░░░░   74.01 % 
+Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+TeX                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Claude Code              12 hrs 21 mins      ███████████████████████░░   90.01 % 
+VS Code                  1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MyServers                4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+AI复习资料生成                 2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+转正考核-Temp                1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+YellowStone              1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Hydraallen.github.io     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 hrs 43 mins (99.98%)
+
+✍️ 7,402 lines written by AI, 110 lines written by hand (98.54% AI-written)
+
+🔤 15,335,764 Input Tokens, 991,347 Output Tokens
+
+💵 $268.23 Estimated AI Cost This Week
+
+🧠 71 AI Sessions, 230 AI Prompts
+
+Fable                    6,200 lines         ████████████████████░░░░░   78.75 % 
+Opus                     1,559 lines         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+GPT                      114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.54% of written lines came from AI
+📚 Verbose Prompter — average 2,652 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -145,7 +174,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:56:49 UTC
+ Last Updated on 30/08/2026 22:09:28 UTC
 <!--END_SECTION:waka-->
 
 
