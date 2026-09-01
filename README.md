@@ -77,7 +77,7 @@ My repositories:
 
 **🐱 My GitHub Data** 
 
-> 📦 4.3 MB Used in GitHub's Storage 
+> 📦 4.4 MB Used in GitHub's Storage 
  > 
 > 🏆 191 Contributions in the Year 2026
  > 
@@ -90,16 +90,16 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151081 commits      ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌆 Daytime                2639 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-🌃 Evening                941 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+🌞 Morning                151083 commits      ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌆 Daytime                2644 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+🌃 Evening                946 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 🌙 Night                  327016 commits      █████████████████░░░░░░░░   67.89 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   471135 commits      ████████████████████████░   97.81 % 
-Tuesday                  1046 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Tuesday                  1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 Wednesday                956 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Thursday                 4232 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Friday                   863 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
@@ -114,54 +114,54 @@ Sunday                   2441 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 46 mins      ██████████████████░░░░░░░   70.27 % 
-TypeScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Markdown                 11 hrs 23 mins      ██████████████████░░░░░░░   70.66 % 
+TypeScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Python                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 13 mins      ██████████████████░░░░░░░   72.99 % 
-VS Code                  2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Codex Vscode             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Claude Code              11 hrs 35 mins      ██████████████████░░░░░░░   71.96 % 
+VS Code                  2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Codex Vscode             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-MyServers                4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-AI复习资料生成                 2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-转正考核-Temp                1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Unknown Project          1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-OpenCode-PlugIn          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+MyServers                4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+AI复习资料生成                 1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+转正考核-Temp                1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Unknown Project          1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+OpenCode-PlugIn          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 💻 Operating System: 
-Mac                      16 hrs 41 mins      █████████████████████████   99.66 % 
-Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Mac                      16 hrs 3 mins       █████████████████████████   99.64 % 
+Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 40 mins (99.57%)
+⏱ AI Coding Time: 16 hrs 2 mins (99.55%)
 
-✍️ 10,451 lines written by AI, 111 lines written by hand (98.95% AI-written)
+✍️ 8,919 lines written by AI, 111 lines written by hand (98.77% AI-written)
 
-🔤 19,544,553 Input Tokens, 1,100,127 Output Tokens
+🔤 19,020,362 Input Tokens, 1,070,194 Output Tokens
 
-💵 $342.03 Estimated AI Cost This Week
+💵 $327.54 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 259 AI Prompts
+🧠 81 AI Sessions, 245 AI Prompts
 
-Fable                    8,539 lines         ███████████████████░░░░░░   74.88 % 
-GPT                      1,353 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Opus                     1,067 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Glm                      445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Fable                    7,007 lines         ██████████████████░░░░░░░   70.98 % 
+GPT                      1,353 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Opus                     1,067 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Glm                      445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.95% of written lines came from AI
-📚 Verbose Prompter — average 2,106 characters per prompt
+🤖 AI-Driven — 98.77% of written lines came from AI
+📚 Verbose Prompter — average 2,115 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.96% of changed lines were hand-edited
+🚀 High AI Trust — 1.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -177,7 +177,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 23:48:48 UTC
+ Last Updated on 01/09/2026 22:06:02 UTC
 <!--END_SECTION:waka-->
 
 
