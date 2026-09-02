@@ -90,17 +90,17 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151083 commits      ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌆 Daytime                2644 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+🌞 Morning                151084 commits      ████████░░░░░░░░░░░░░░░░░   31.44 % 
+🌆 Daytime                2646 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 🌃 Evening                946 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-🌙 Night                  327016 commits      █████████████████░░░░░░░░   67.89 % 
+🌙 Night                  325916 commits      █████████████████░░░░░░░░   67.82 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   471135 commits      ████████████████████████░   97.81 % 
+Monday                   470035 commits      ████████████████████████░   97.80 % 
 Tuesday                  1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Wednesday                956 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Wednesday                959 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Thursday                 4232 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Friday                   863 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Saturday                 1004 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
@@ -114,54 +114,54 @@ Sunday                   2441 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 23 mins      ██████████████████░░░░░░░   70.66 % 
-TypeScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Python                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Markdown                 10 hrs 56 mins      ██████████████████░░░░░░░   73.80 % 
+TypeScript               1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 35 mins      ██████████████████░░░░░░░   71.96 % 
-VS Code                  2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Codex Vscode             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Claude Code              10 hrs 18 mins      █████████████████░░░░░░░░   69.52 % 
+VS Code                  2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Codex Vscode             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-MyServers                4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-AI复习资料生成                 1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-转正考核-Temp                1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Unknown Project          1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-OpenCode-PlugIn          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+MyServers                4 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.69 % 
+转正考核-Temp                1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Unknown Project          1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+OpenCode-PlugIn          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+YellowStone              1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 💻 Operating System: 
-Mac                      16 hrs 3 mins       █████████████████████████   99.64 % 
-Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Mac                      14 hrs 46 mins      █████████████████████████   99.61 % 
+Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 2 mins (99.55%)
+⏱ AI Coding Time: 14 hrs 45 mins (99.51%)
 
-✍️ 8,919 lines written by AI, 111 lines written by hand (98.77% AI-written)
+✍️ 7,616 lines written by AI, 111 lines written by hand (98.56% AI-written)
 
-🔤 19,020,362 Input Tokens, 1,070,194 Output Tokens
+🔤 18,086,876 Input Tokens, 1,004,600 Output Tokens
 
-💵 $327.54 Estimated AI Cost This Week
+💵 $306.15 Estimated AI Cost This Week
 
-🧠 81 AI Sessions, 245 AI Prompts
+🧠 79 AI Sessions, 235 AI Prompts
 
-Fable                    7,007 lines         ██████████████████░░░░░░░   70.98 % 
-GPT                      1,353 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Opus                     1,067 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Glm                      445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Fable                    5,701 lines         █████████████████░░░░░░░░   66.55 % 
+GPT                      1,353 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Opus                     1,067 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Glm                      445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.77% of written lines came from AI
-📚 Verbose Prompter — average 2,115 characters per prompt
+🤖 AI-Driven — 98.56% of written lines came from AI
+📚 Verbose Prompter — average 2,130 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.11% of changed lines were hand-edited
+🚀 High AI Trust — 1.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -177,7 +177,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 22:06:02 UTC
+ Last Updated on 02/09/2026 22:13:37 UTC
 <!--END_SECTION:waka-->
 
 
