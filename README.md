@@ -90,20 +90,20 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151086 commits      ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌞 Morning                151087 commits      ████████░░░░░░░░░░░░░░░░░   31.36 % 
 🌆 Daytime                2666 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 🌃 Evening                950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-🌙 Night                  327116 commits      █████████████████░░░░░░░░   67.89 % 
+🌙 Night                  327016 commits      █████████████████░░░░░░░░   67.89 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   471235 commits      ████████████████████████░   97.80 % 
+Monday                   471135 commits      ████████████████████████░   97.80 % 
 Tuesday                  1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 Wednesday                959 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Thursday                 4240 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Friday                   881 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Saturday                 1004 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Saturday                 1005 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Sunday                   2441 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
@@ -114,54 +114,54 @@ Sunday                   2441 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 15 mins      █████████████████░░░░░░░░   68.49 % 
-TypeScript               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Markdown                 12 hrs 29 mins      ████████████████░░░░░░░░░   65.77 % 
+TypeScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 2 mins       ████████████████████░░░░░   81.88 % 
-VS Code                  2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Codex Vscode             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Claude Code              15 hrs 29 mins      ████████████████████░░░░░   81.49 % 
+VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Codex Vscode             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-MyServers                11 hrs 34 mins      ██████████████░░░░░░░░░░░   55.65 % 
-转正考核-Temp                1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-OpenCode-PlugIn          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-fix                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-考试倒计时                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+MyServers                11 hrs 34 mins      ███████████████░░░░░░░░░░   60.95 % 
+OpenCode-PlugIn          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+fix                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+考试倒计时                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+claude-code-config       1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-Mac                      20 hrs 45 mins      █████████████████████████   99.72 % 
-Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Mac                      18 hrs 56 mins      █████████████████████████   99.70 % 
+Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 43 mins (99.59%)
+⏱ AI Coding Time: 18 hrs 55 mins (99.55%)
 
-✍️ 8,984 lines written by AI, 114 lines written by hand (98.75% AI-written)
+✍️ 7,502 lines written by AI, 114 lines written by hand (98.5% AI-written)
 
-🔤 22,568,001 Input Tokens, 1,187,948 Output Tokens
+🔤 20,481,800 Input Tokens, 1,081,673 Output Tokens
 
-💵 $356.52 Estimated AI Cost This Week
+💵 $301.75 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 334 AI Prompts
+🧠 49 AI Sessions, 288 AI Prompts
 
-Fable                    6,283 lines         ████████████████░░░░░░░░░   63.03 % 
-Opus                     1,977 lines         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-GPT                      1,239 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Glm                      445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Fable                    4,844 lines         ██████████████░░░░░░░░░░░   56.79 % 
+Opus                     1,977 lines         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+GPT                      1,239 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Glm                      445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.75% of written lines came from AI
-📚 Verbose Prompter — average 2,147 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.16% of changed lines were hand-edited
+🤖 AI-Driven — 98.5% of written lines came from AI
+📚 Verbose Prompter — average 2,338 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -177,7 +177,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 21:47:12 UTC
+ Last Updated on 05/09/2026 21:20:36 UTC
 <!--END_SECTION:waka-->
 
 
