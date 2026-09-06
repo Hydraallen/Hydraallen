@@ -79,7 +79,7 @@ My repositories:
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2026
+> 🏆 204 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,21 +90,21 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                151087 commits      ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌞 Morning                151088 commits      ████████░░░░░░░░░░░░░░░░░   31.37 % 
 🌆 Daytime                2666 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 🌃 Evening                950 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-🌙 Night                  327016 commits      █████████████████░░░░░░░░   67.89 % 
+🌙 Night                  326916 commits      █████████████████░░░░░░░░   67.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   471135 commits      ████████████████████████░   97.80 % 
+Monday                   471035 commits      ████████████████████████░   97.80 % 
 Tuesday                  1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 Wednesday                959 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Thursday                 4240 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Friday                   881 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Saturday                 1005 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Sunday                   2441 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Sunday                   2442 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
@@ -114,54 +114,54 @@ Sunday                   2441 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 29 mins      ████████████████░░░░░░░░░   65.77 % 
-TypeScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Markdown                 27 hrs 21 mins      ████████████████░░░░░░░░░   65.61 % 
+TypeScript               4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Bash                     4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Python                   2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+CSS                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 29 mins      ████████████████████░░░░░   81.49 % 
-VS Code                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Codex Vscode             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Claude Code              32 hrs 1 min        ███████████████████░░░░░░   76.84 % 
+VS Code                  5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Codex Vscode             3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-MyServers                11 hrs 34 mins      ███████████████░░░░░░░░░░   60.95 % 
-OpenCode-PlugIn          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-fix                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-考试倒计时                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-claude-code-config       1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+MyServers                26 hrs 36 mins      ████████████████░░░░░░░░░   63.84 % 
+LifeChecklist            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+考试倒计时                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+claude-code-config       1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+OpenCode-PlugIn          1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Mac                      18 hrs 56 mins      █████████████████████████   99.70 % 
-Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Mac                      41 hrs 36 mins      █████████████████████████   99.79 % 
+Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 55 mins (99.55%)
+⏱ AI Coding Time: 41 hrs 34 mins (99.73%)
 
-✍️ 7,502 lines written by AI, 114 lines written by hand (98.5% AI-written)
+✍️ 16,828 lines written by AI, 4 lines written by hand (99.98% AI-written)
 
-🔤 20,481,800 Input Tokens, 1,081,673 Output Tokens
+🔤 49,199,762 Input Tokens, 3,900,467 Output Tokens
 
-💵 $301.75 Estimated AI Cost This Week
+💵 $689.94 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 288 AI Prompts
+🧠 162 AI Sessions, 821 AI Prompts
 
-Fable                    4,844 lines         ██████████████░░░░░░░░░░░   56.79 % 
-Opus                     1,977 lines         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-GPT                      1,239 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Glm                      445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+GPT                      7,317 lines         ███████████░░░░░░░░░░░░░░   44.19 % 
+Fable                    4,638 lines         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Opus                     3,882 lines         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Glm                      531 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Sonnet                   189 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.5% of written lines came from AI
-📚 Verbose Prompter — average 2,338 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.36% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 2,172 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -177,7 +177,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 21:20:36 UTC
+ Last Updated on 06/09/2026 21:26:09 UTC
 <!--END_SECTION:waka-->
 
 
