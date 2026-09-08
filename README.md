@@ -114,52 +114,50 @@ Sunday                   2442 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 21 hrs 49 mins      ██████████████████░░░░░░░   71.79 % 
-Bash                     3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Python                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-TypeScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 12 hrs 52 mins      █████████████████░░░░░░░░   69.94 % 
+Bash                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 5 mins       ██████████████████████░░░   89.15 % 
-VS Code                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Codex Vscode             1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Claude Code              18 hrs 22 mins      █████████████████████████   99.85 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-MyServers                23 hrs 55 mins      ████████████████████░░░░░   78.73 % 
-LifeChecklist            1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-claude-code-config       1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-考试倒计时                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Study-plan               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+MyServers                15 hrs 22 mins      █████████████████████░░░░   83.49 % 
+claude-code-config       1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+考试倒计时                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+国家电网                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Study-plan               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      30 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 23 mins (99.96%)
+⏱ AI Coding Time: 18 hrs 23 mins (99.93%)
 
-✍️ 7,550 lines written by AI, 3 lines written by hand (99.96% AI-written)
+✍️ 3,689 lines written by AI, 3 lines written by hand (99.92% AI-written)
 
-🔤 34,750,516 Input Tokens, 2,740,888 Output Tokens
+🔤 17,999,353 Input Tokens, 1,095,674 Output Tokens
 
-💵 $467.20 Estimated AI Cost This Week
+💵 $199.35 Estimated AI Cost This Week
 
-🧠 98 AI Sessions, 658 AI Prompts
+🧠 44 AI Sessions, 399 AI Prompts
 
-Fable                    2,293 lines         █████████░░░░░░░░░░░░░░░░   34.08 % 
-GPT                      2,232 lines         ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Opus                     2,093 lines         ████████░░░░░░░░░░░░░░░░░   31.10 % 
-Sonnet                   111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Fable                    2,257 lines         ███████████████░░░░░░░░░░   60.90 % 
+Opus                     1,424 lines         ██████████░░░░░░░░░░░░░░░   38.42 % 
+Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,390 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 2,370 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -175,7 +173,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 22:29:13 UTC
+ Last Updated on 08/09/2026 22:07:51 UTC
 <!--END_SECTION:waka-->
 
 
