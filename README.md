@@ -73,7 +73,7 @@ My repositories:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-680%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -114,50 +114,50 @@ Sunday                   2442 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 52 mins      █████████████████░░░░░░░░   69.94 % 
-Bash                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Markdown                 6 hrs 21 mins       ████████████████░░░░░░░░░   65.08 % 
+Bash                     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 22 mins      █████████████████████████   99.85 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              9 hrs 44 mins       █████████████████████████   99.73 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-MyServers                15 hrs 22 mins      █████████████████████░░░░   83.49 % 
-claude-code-config       1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-考试倒计时                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-国家电网                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Study-plan               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+MyServers                7 hrs 1 min         ██████████████████░░░░░░░   71.95 % 
+考试倒计时                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+claude-code-config       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+国家电网                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Study-plan               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Mac                      18 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 23 mins (99.93%)
+⏱ AI Coding Time: 9 hrs 45 mins (99.87%)
 
-✍️ 3,689 lines written by AI, 3 lines written by hand (99.92% AI-written)
+✍️ 2,898 lines written by AI, 3 lines written by hand (99.9% AI-written)
 
-🔤 17,999,353 Input Tokens, 1,095,674 Output Tokens
+🔤 10,333,517 Input Tokens, 563,749 Output Tokens
 
-💵 $199.35 Estimated AI Cost This Week
+💵 $119.42 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 399 AI Prompts
+🧠 18 AI Sessions, 155 AI Prompts
 
-Fable                    2,257 lines         ███████████████░░░░░░░░░░   60.90 % 
-Opus                     1,424 lines         ██████████░░░░░░░░░░░░░░░   38.42 % 
-Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Fable                    2,257 lines         █████████████████░░░░░░░░   67.86 % 
+Opus                     1,044 lines         ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 2,370 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 2,175 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -173,7 +173,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 22:07:51 UTC
+ Last Updated on 09/09/2026 22:22:12 UTC
 <!--END_SECTION:waka-->
 
 
