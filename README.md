@@ -90,21 +90,21 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                154685 commits      ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌆 Daytime                4265 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-🌃 Evening                1825 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-🌙 Night                  403176 commits      ██████████████████░░░░░░░   71.49 % 
+🌞 Morning                151111 commits      ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌆 Daytime                2681 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+🌃 Evening                952 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+🌙 Night                  325732 commits      █████████████████░░░░░░░░   67.79 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   546969 commits      ████████████████████████░   96.99 % 
-Tuesday                  2207 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Wednesday                1338 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Thursday                 8108 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Friday                   1093 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Saturday                 1396 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Sunday                   2840 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Monday                   469855 commits      ████████████████████████░   97.79 % 
+Tuesday                  1065 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Wednesday                969 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Thursday                 4242 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Friday                   882 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Saturday                 1014 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Sunday                   2449 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
@@ -114,51 +114,51 @@ Sunday                   2840 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 hrs 15 mins      ███████████░░░░░░░░░░░░░░   42.63 % 
-Other                    8 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-TeX                      4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-YAML                     4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Bash                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown                 17 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   41.46 % 
+Other                    8 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TeX                      4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+YAML                     4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Bash                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 37 mins      ████████████████░░░░░░░░░   64.52 % 
-VS Code                  15 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   35.48 % 
+Claude Code              26 hrs 33 mins      ████████████████░░░░░░░░░   63.61 % 
+VS Code                  15 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   36.39 % 
 
 🐱‍💻 Projects: 
-MyServers                30 hrs 20 mins      ██████████████████░░░░░░░   70.87 % 
-cv                       6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Mini-Project             3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-买车                       1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-si-679-f-26-week1-nyt-hyd20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+MyServers                29 hrs 16 mins      ██████████████████░░░░░░░   70.12 % 
+cv                       6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Mini-Project             3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+买车                       1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+si-679-f-26-week1-nyt-hyd20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Mac                      42 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 52 mins (97.79%)
+⏱ AI Coding Time: 40 hrs 48 mins (97.74%)
 
-✍️ 11,193 lines written by AI, 258 lines written by hand (97.75% AI-written)
+✍️ 11,055 lines written by AI, 258 lines written by hand (97.72% AI-written)
 
-🔤 31,243,323 Input Tokens, 5,303,729 Output Tokens
+🔤 30,171,009 Input Tokens, 5,166,581 Output Tokens
 
-💵 $847.69 Estimated AI Cost This Week
+💵 $836.40 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 941 AI Prompts
+🧠 90 AI Sessions, 926 AI Prompts
 
-Glm                      3,897 lines         ███████████░░░░░░░░░░░░░░   44.08 % 
-Opus                     3,352 lines         █████████░░░░░░░░░░░░░░░░   37.91 % 
-Fable                    1,454 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Sonnet                   138 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Glm                      3,897 lines         ███████████░░░░░░░░░░░░░░   44.78 % 
+Opus                     3,352 lines         ██████████░░░░░░░░░░░░░░░   38.52 % 
+Fable                    1,454 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.75% of written lines came from AI
-📚 Verbose Prompter — average 2,242 characters per prompt
+🤖 AI-Driven — 97.72% of written lines came from AI
+📚 Verbose Prompter — average 2,277 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 2.7% of changed lines were hand-edited
+🚀 High AI Trust — 2.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -174,7 +174,7 @@ Lua                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 22:18:04 UTC
+ Last Updated on 19/09/2026 21:43:54 UTC
 <!--END_SECTION:waka-->
 
 
