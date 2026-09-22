@@ -175,13 +175,8 @@ Lua                      3 repos             █░░░░░░░░░░�
 **📫 How to Reach me:**
 
 <p align="left">
-<a href="mailto:wangruiallen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hydraallen/Hydraallen/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/rui-wang-546099392/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hydraallen/Hydraallen/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-</p>
-
-
-
-
+<a href="mailto:wangruiallen@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rui-wang-546099392/" target="blank"><img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
 
