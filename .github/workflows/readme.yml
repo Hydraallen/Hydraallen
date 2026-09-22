@@ -18,4 +18,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 时间线
           SHOW_LOC_CHART: False
+          # 公开仓库：不暴露具体项目/工作区名
+          SHOW_PROJECTS: False
 
