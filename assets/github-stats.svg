@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hydraallen's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 33, Total Commits  : 8698, Total PRs: 2287, Total Issues: 2275, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 33, Total Commits  : 8703, Total PRs: 2287, Total Issues: 2275, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.16637672249743;
+        stroke-dashoffset: 76.16602776477416;
       }
     }
   
