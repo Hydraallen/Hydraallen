@@ -88,24 +88,24 @@ My repositories:
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                172710 commits      ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+🌆 Daytime                3975 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+🌃 Evening                1730 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+🌙 Night                  419284 commits      ██████████████████░░░░░░░   70.15 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   581787 commits      ████████████████████████░   97.34 % 
+Tuesday                  2093 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Wednesday                1217 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Thursday                 7366 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Friday                   1111 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Saturday                 1387 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Sunday                   2738 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
@@ -154,14 +154,20 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 26.21% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Jupyter Notebook** 
 
+```text
+Jupyter Notebook         10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
 
 
 
- Last Updated on 21/10/2026 19:30:09 UTC
+ Last Updated on 21/10/2026 20:49:23 UTC
 <!--END_SECTION:waka-->
 
 
