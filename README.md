@@ -91,7 +91,7 @@ My repositories:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                262806 commits      ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+🌞 Morning                262812 commits      ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
 🌆 Daytime                5922 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 🌃 Evening                2557 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 🌙 Night                  859807 commits      ███████████████████░░░░░░   76.02 % 
@@ -104,7 +104,7 @@ Tuesday                  3201 commits        ░░░░░░░░░░░�
 Wednesday                1491 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Thursday                 14011 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 Friday                   1110 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Saturday                 1661 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Saturday                 1667 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Sunday                   3024 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
@@ -115,43 +115,42 @@ Sunday                   3024 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   25 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.58 % 
-Markdown                 17 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   32.54 % 
-TypeScript               3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Other                    3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Markdown                 15 hrs 40 mins      ███████████░░░░░░░░░░░░░░   43.27 % 
+Python                   12 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   33.81 % 
+TypeScript               3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other                    1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Claude Code              46 hrs 33 mins      ██████████████████████░░░   87.92 % 
-VS Code                  6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Claude Code              29 hrs 49 mins      █████████████████████░░░░   82.34 % 
+VS Code                  6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 
 💻 Operating System: 
-Mac                      52 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 2 mins (90.7%)
+⏱ AI Coding Time: 31 hrs 17 mins (86.4%)
 
-✍️ 31,352 lines written by AI, 1,257 lines written by hand (96.15% AI-written)
+✍️ 21,570 lines written by AI, 1,257 lines written by hand (94.49% AI-written)
 
-🔤 42,815,506 Input Tokens, 4,747,432 Output Tokens
+🔤 36,870,276 Input Tokens, 3,695,023 Output Tokens
 
-💵 $1517.58 Estimated AI Cost This Week
+💵 $1067.77 Estimated AI Cost This Week
 
-🧠 102 AI Sessions, 589 AI Prompts
+🧠 80 AI Sessions, 433 AI Prompts
 
-Opus                     32,007 lines        █████████████████████████   98.71 % 
-GLM                      378 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Fable                    41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     21,931 lines        █████████████████████████   98.15 % 
+GLM                      372 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Fable                    41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.15% of written lines came from AI
-📚 Verbose Prompter — average 1,955 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 4.98% of changed lines were hand-edited
+🤖 AI-Driven — 94.49% of written lines came from AI
+📚 Verbose Prompter — average 1,980 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 7.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -167,7 +166,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 00:33:17 UTC
+ Last Updated on 31/10/2026 23:42:48 UTC
 <!--END_SECTION:waka-->
 
 
