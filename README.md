@@ -92,7 +92,7 @@ My repositories:
 
 ```text
 🌞 Morning                262806 commits      ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                5921 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+🌆 Daytime                5922 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 🌃 Evening                2557 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 🌙 Night                  859807 commits      ███████████████████░░░░░░   76.02 % 
 ```
@@ -105,7 +105,7 @@ Wednesday                1491 commits        ░░░░░░░░░░░�
 Thursday                 14011 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 Friday                   1110 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Saturday                 1661 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Sunday                   3023 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Sunday                   3024 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 
@@ -115,43 +115,43 @@ Sunday                   3023 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.88 % 
-Markdown                 21 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Other                    5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Text                     3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Bash                     3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Python                   25 hrs 11 mins      ████████████░░░░░░░░░░░░░   47.58 % 
+Markdown                 17 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   32.54 % 
+TypeScript               3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Other                    3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Claude Code              61 hrs 50 mins      ███████████████████████░░   90.62 % 
-VS Code                  6 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Claude Code              46 hrs 33 mins      ██████████████████████░░░   87.92 % 
+VS Code                  6 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 💻 Operating System: 
-Mac                      68 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      52 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 63 hrs 18 mins (92.78%)
+⏱ AI Coding Time: 48 hrs 2 mins (90.7%)
 
-✍️ 34,315 lines written by AI, 1,257 lines written by hand (96.47% AI-written)
+✍️ 31,352 lines written by AI, 1,257 lines written by hand (96.15% AI-written)
 
-🔤 58,086,432 Input Tokens, 6,832,943 Output Tokens
+🔤 42,815,506 Input Tokens, 4,747,432 Output Tokens
 
-💵 $2177.05 Estimated AI Cost This Week
+💵 $1517.58 Estimated AI Cost This Week
 
-🧠 144 AI Sessions, 849 AI Prompts
+🧠 102 AI Sessions, 589 AI Prompts
 
-Opus                     32,962 lines        ███████████████████████░░   91.93 % 
-GLM                      2,835 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Fable                    60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Opus                     32,007 lines        █████████████████████████   98.71 % 
+GLM                      378 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Fable                    41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.47% of written lines came from AI
-📚 Verbose Prompter — average 2,217 characters per prompt
+🤖 AI-Driven — 96.15% of written lines came from AI
+📚 Verbose Prompter — average 1,955 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 4.53% of changed lines were hand-edited
+🚀 High AI Trust — 4.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -167,7 +167,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 00:53:47 UTC
+ Last Updated on 31/10/2026 00:33:17 UTC
 <!--END_SECTION:waka-->
 
 
