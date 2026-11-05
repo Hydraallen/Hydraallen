@@ -11,6 +11,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: anmol098/waka-readme-stats@c6070c14861e6d8b553742b1f9e1ed9e7b53938a  # v5, pinned 2026-07-07
         with:
