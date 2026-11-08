@@ -11,9 +11,10 @@ permissions:
 jobs:
   download-stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Download Images from YOUR Vercel
         run: |
