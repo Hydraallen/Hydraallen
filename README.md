@@ -70,7 +70,11 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C356%20hrs%2012%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-837%20hrs%2034%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,6 +88,73 @@ My repositories:
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2973 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
+🌆 Daytime                1166 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌃 Evening                869 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+🌙 Night                  4033 commits        ███████████░░░░░░░░░░░░░░   44.61 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3612 commits        ██████████░░░░░░░░░░░░░░░   39.95 % 
+Tuesday                  969 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Wednesday                769 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Thursday                 622 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Friday                   543 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Saturday                 549 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Sunday                   1977 commits        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 13 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   39.63 % 
+Python                   6 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+JavaScript               3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+JSON                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Text                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+
+🔥 Editors: 
+Claude Code              32 hrs 10 mins      ████████████████████████░   96.77 % 
+VS Code                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+
+💻 Operating System: 
+Mac                      33 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 32 hrs 35 mins (98.02%)
+
+✍️ 38,411 lines written by AI, 231 lines written by hand (99.4% AI-written)
+
+🔤 40,026,591 Input Tokens, 5,640,554 Output Tokens
+
+💵 $1661.48 Estimated AI Cost This Week
+
+🧠 95 AI Sessions, 447 AI Prompts
+
+Opus                     26,490 lines        ████████████████░░░░░░░░░   65.26 % 
+GLM                      14,001 lines        █████████░░░░░░░░░░░░░░░░   34.49 % 
+Sonnet                   100 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.4% of written lines came from AI
+📚 Verbose Prompter — average 2,972 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.65% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -97,7 +168,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 01:36:41 UTC
+ Last Updated on 08/11/2026 01:52:49 UTC
 <!--END_SECTION:waka-->
 
 
