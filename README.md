@@ -70,9 +70,9 @@ My repositories:
 ![](https://github.com/Hydraallen/Hydraallen/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C366%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C368%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-848%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-850%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -115,44 +115,44 @@ Sunday                   1981 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.99 % 
-Python                   8 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-JSON                     3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-JavaScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Other                    2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown                 10 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   37.71 % 
+Python                   6 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Text                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Other                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+TypeScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 33 mins      ███████████████████████░░   93.51 % 
-VS Code                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Claude Code              24 hrs 28 mins      ██████████████████████░░░   89.42 % 
+VS Code                  2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 💻 Operating System: 
-Mac                      35 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 21 mins (95.71%)
+⏱ AI Coding Time: 25 hrs 34 mins (93.45%)
 
-✍️ 31,656 lines written by AI, 782 lines written by hand (97.59% AI-written)
+✍️ 20,929 lines written by AI, 976 lines written by hand (95.54% AI-written)
 
-🔤 35,476,737 Input Tokens, 5,571,265 Output Tokens
+🔤 24,428,976 Input Tokens, 3,989,254 Output Tokens
 
-💵 $1771.75 Estimated AI Cost This Week
+💵 $1272.86 Estimated AI Cost This Week
 
-🧠 90 AI Sessions, 531 AI Prompts
+🧠 53 AI Sessions, 401 AI Prompts
 
-GLM                      19,396 lines        ██████████████░░░░░░░░░░░   57.57 % 
-Opus                     14,282 lines        ███████████░░░░░░░░░░░░░░   42.39 % 
-Fable                    16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GLM                      16,612 lines        ███████████████████░░░░░░   76.13 % 
+Opus                     5,192 lines         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Fable                    16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.59% of written lines came from AI
-📚 Verbose Prompter — average 2,746 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.5% of changed lines were hand-edited
+🤖 AI-Driven — 95.54% of written lines came from AI
+📚 Verbose Prompter — average 2,262 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 4.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -168,7 +168,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 22:23:56 UTC
+ Last Updated on 10/11/2026 01:47:00 UTC
 <!--END_SECTION:waka-->
 
 
