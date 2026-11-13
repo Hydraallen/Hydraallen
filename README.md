@@ -115,44 +115,44 @@ Sunday                   1981 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 23 hrs 1 min        ████████████░░░░░░░░░░░░░   46.24 % 
-Python                   7 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Other                    5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Bash                     4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Text                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Markdown                 19 hrs 50 mins      ███████████░░░░░░░░░░░░░░   45.02 % 
+Python                   6 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Other                    5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Bash                     3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Text                     2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🔥 Editors: 
-Claude Code              47 hrs 34 mins      ████████████████████████░   95.50 % 
-VS Code                  2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Claude Code              41 hrs 50 mins      ████████████████████████░   94.92 % 
+VS Code                  2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Mac                      49 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 25 mins (97.2%)
+⏱ AI Coding Time: 42 hrs 41 mins (96.84%)
 
-✍️ 24,170 lines written by AI, 801 lines written by hand (96.79% AI-written)
+✍️ 20,192 lines written by AI, 801 lines written by hand (96.18% AI-written)
 
-🔤 56,358,091 Input Tokens, 7,650,023 Output Tokens
+🔤 48,948,725 Input Tokens, 6,432,563 Output Tokens
 
-💵 $1158.36 Estimated AI Cost This Week
+💵 $1076.55 Estimated AI Cost This Week
 
-🧠 115 AI Sessions, 818 AI Prompts
+🧠 96 AI Sessions, 718 AI Prompts
 
-Opus                     18,018 lines        ██████████████████░░░░░░░   73.35 % 
-GLM                      6,217 lines         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-Fable                    329 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Opus                     14,212 lines        █████████████████░░░░░░░░   69.07 % 
+GLM                      6,217 lines         ████████░░░░░░░░░░░░░░░░░   30.21 % 
+Fable                    148 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.79% of written lines came from AI
-📚 Verbose Prompter — average 2,019 characters per prompt
+🤖 AI-Driven — 96.18% of written lines came from AI
+📚 Verbose Prompter — average 2,113 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.61% of changed lines were hand-edited
+🚀 High AI Trust — 4.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -168,7 +168,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 23:50:21 UTC
+ Last Updated on 13/11/2026 23:51:51 UTC
 <!--END_SECTION:waka-->
 
 
